@@ -1,0 +1,7 @@
+Dependencies for Project 'IO', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x47F44360)(--cpu ARM7TDMI -g --apcs=interwork -I "C:\Program Files\Keil MDK514\ARM\RV31\INC"-I "C:\Program Files\Keil MDK514\ARM\CMSIS\Include"-I "C:\Program Files\Keil MDK514\ARM\Inc\Philips"--pd "__UVISION_VERSION SETA 514"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\IO.c)(0x530EA9CF)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "C:\Program Files\Keil MDK514\ARM\RV31\INC"-I "C:\Program Files\Keil MDK514\ARM\CMSIS\Include"-I "C:\Program Files\Keil MDK514\ARM\Inc\Philips"-D__UVISION_VERSION="514"-o .\io.o --omf_browse .\io.crf --depend .\io.d)
+I (C:\Program Files\Keil MDK514\ARM\Inc\Philips\lpc213x.h)(0x5346363A)
+I (delay.h)(0x52FB1619)
+F (.\delay.c)(0x52FB15E6)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "C:\Program Files\Keil MDK514\ARM\RV31\INC"-I "C:\Program Files\Keil MDK514\ARM\CMSIS\Include"-I "C:\Program Files\Keil MDK514\ARM\Inc\Philips"-D__UVISION_VERSION="514"-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (delay.h)(0x52FB1619)
